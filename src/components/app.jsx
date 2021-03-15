@@ -18,7 +18,7 @@ class App extends Component {
       <div> 
         <FlatList />
       </div>
-      <div className = "flat-container"> 
+      <div className="map-container"> 
       </div>
     );
   }
